@@ -2,4 +2,4 @@
 
 Lib | Figma | React | Vue | Link
 ------------ | ------------- | ------------- | ------------- | -------------
-Glyphs | x | x | x | https://glyphs.fyi/
+Glyphs | ✅ | ✅ | ✅ | https://glyphs.fyi/
